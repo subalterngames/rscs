@@ -1,2 +1,5 @@
 rs/rscs/target
 rs/rscs/Cargo.lock
+cs/rscs/.idea
+cs/rscs/rscs/bin
+cs/rscs/rscs/obj
