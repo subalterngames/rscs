@@ -1,7 +1,7 @@
 #[repr(C)]
 pub struct Buffer {
     pub pointer: *mut u8,
-    pub length: usize
+    pub length: usize,
 }
 
 impl Buffer {
